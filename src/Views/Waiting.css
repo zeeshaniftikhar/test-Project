@@ -1,0 +1,33 @@
+.main_div {
+    height: 100vh;
+    width: 100vw;
+    background-color: white;
+}
+
+.Trukkr_img {
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    position: relative;
+    left: 30px;
+    top: 20px;
+    padding: 10px;
+    width: 250px;
+    height: 90px;
+    text-align: center;
+
+}
+
+.waiting_text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 250px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+}

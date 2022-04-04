@@ -1,0 +1,164 @@
+*{
+    box-sizing: border-box;
+}
+
+.Trukkr_img_logo{
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    position: relative;
+    left: 30px; top: 20px;
+    padding: 1px;
+    width: 172px;
+    height: 53px;
+    text-align: center;
+}
+
+.logo_img{
+    width: 75px;
+    height: 75px;
+    margin-left: 10px;
+    display: flex;
+}
+.header_main{
+    background-color: antiquewhite;
+}
+.chat_screen_logo{
+    display: inline;
+    width: 60px;
+    height: 60px;
+    padding: 0px;
+    margin-left: 50px;
+}
+.mainwidth{
+    display: list-item;
+    margin-left: auto;
+    height: 100vh;
+    margin-top: 40px;
+
+}
+
+.Text-Container{
+    display: inline-table;
+    border-radius: 10px 10px 10px 0px;
+    width: 100vh !important ;
+    max-width: 100vw !important;
+    display: flex;
+    justify-content: center !important;
+    height: 60px;
+    padding: 0px;
+    background-color: #5568d4;
+    color: white;
+    /* overflow: scroll; */
+    margin: 0px !important;
+    border: 1px solid;
+    /* text-overflow: inherit; */
+    max-height: fit-content;
+    display: inline-table;
+
+}
+
+.header-top{
+    color: blue !important;
+    background-color: white !important;
+    display: flex;
+    align-items: flex-start;
+    justify-content: safe;
+    margin: 0px;
+    padding: 0px;
+}
+
+#header-position{
+    color: grey;
+    margin-top: 0px;
+    padding: 0px;
+    font-size: 15px;
+    margin-top: 0px;
+    margin-left: 7px;
+    text-decoration: none;
+}
+#header-name{
+    color: black;
+    margin-bottom: 0px;
+    margin-left: 7px;
+    font-size: 19px;
+    font-weight: bold;
+}
+    
+.btn-arrow{
+    width: auto;
+    border: 0px !important;
+    background: none;
+    word-spacing: 1px !important;
+
+}
+.MuiBox-root{
+    margin-left: -30px;
+}
+.txt-message{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    /* text-transform: uppercase; */
+    padding: 5px;
+    margin: 5px;
+}
+
+.text1{
+    display: flex;
+    margin-left: 20px;
+}
+/* .MuiBox-root{
+margin-left: 30px;
+} */
+
+.text2{
+
+    margin: 10px;
+    width: inherit;
+border-radius: 10px;
+display: flex;
+justify-content: flex-end;
+flex-direction: row;
+float: right;
+margin-right: 0px 10px 10px 10px;
+}
+
+.Text-Container2{
+    width: max-content;
+    max-width: max-content;
+    padding: 6px;
+    box-shadow: 1px 1px 7px black;
+    border-radius: 10px;
+   border: 1px solid;
+}
+
+.all-done{
+    width: 25px;
+    height: 25px;
+    margin-top: 22px;
+    margin-right: -20px;
+    margin-left: 5px;
+}
+
+.Nav_items{
+    list-style-type: none;
+    display: flex; 
+    align-items: center ;
+    justify-content: center;
+    text-decoration: none;
+    /* text-align: center !important; */
+}
+
+.Nav_items_link{
+    color:black;
+    font-size: larger;
+    text-decoration: none;
+    margin-top: 10px;
+}
+.Nav_items_link:hover{
+    color: black;
+    background-color: lightgrey ;
+    text-indent: 5px;
+}
