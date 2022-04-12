@@ -53,3 +53,16 @@
 /* .Icon_reaction:checked{
     color: yellow;
 } */
+.Icon_reaction:hover{
+    color: red;
+    opacity: 0.9;
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    overflow: hidden;
+    background-color:#fbff03;
+    overflow: hidden;
+    }
+    /* .Icon_reaction:checked{
+color: #fbff03;
+    } */

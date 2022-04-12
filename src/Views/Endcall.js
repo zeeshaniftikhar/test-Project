@@ -1,5 +1,5 @@
 import React from "react";
-import "./Endcall.css"
+import "../css/Endcall.css"
 import image_trukkr from "../Components/images/Truck.png"
 import Angry from "../Components/images/angry-regular.svg"
 import Average from "../Components/images/average-regular.svg"

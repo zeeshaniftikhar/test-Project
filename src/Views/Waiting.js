@@ -1,5 +1,5 @@
 import React from 'react';
-import './Waiting.css'
+import '../css/Waiting.css'
 import image_trukkr from "../Components/images/Truck.png";
 
 export default function Waiting() {

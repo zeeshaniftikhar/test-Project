@@ -162,3 +162,7 @@ margin-right: 0px 10px 10px 10px;
     background-color: lightgrey ;
     text-indent: 5px;
 }
+
+.SendIcon{
+    width: 100px;
+}
